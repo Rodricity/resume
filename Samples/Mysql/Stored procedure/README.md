@@ -6,4 +6,4 @@ This was intended to generate grade report for direct export to XLS using a Meta
 
 Sample output
 
-![alt text](https://github.com/Rodricity/resume/raw/master/Samples/Mysql/Stored procedure/Sample output.jpg "Output image file")
+![alt text](https://github.com/Rodricity/resume/blob/master/Samples/Mysql/Stored%20procedure/Sample%20output.jpg "Output image file")
