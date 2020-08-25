@@ -6,11 +6,11 @@ Clone the production/RC server database and mount it locally in order to get 1:1
 
 The script makes the following assumptions:
 
-1.- You have a local SSH private key file configured either in ~/.ssh/config or ~/.ssh/id_rsa
-2.- Your target server has your public key already loaded
-3.- Your local user on target has access to database you want to clone
-4.- Yo have the command 'pv' installed on your host
-4.- Target server has sufficient space to dump the database AND store the compressed version at the same time
+- You have a local SSH private key file configured either in ~/.ssh/config or ~/.ssh/id_rsa
+- Your target server has your public key already loaded
+- Your local user on target has access to database you want to clone
+- Yo have the command 'pv' installed on your host
+- Target server has sufficient space to dump the database AND store the compressed version at the same time
 
 Sample output
 
